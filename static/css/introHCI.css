@@ -14,6 +14,7 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     background-color: snow;
 }
 
 .jumbotron {
@@ -43,11 +44,4 @@ p {
  
  #project1 {
      font-variant: small-caps;
- }
- 
- .project {
-     margin-left: 20px;
-     background-color: #deebf7;
-     padding: 20px;
-     width: 525px;
  }
